@@ -1,4 +1,4 @@
-# Apply.io Frontend Technical Assessment
+# Apply's Frontend Technical Assessment
 
 ## Introduction
 Welcome to the next step of Apply's engineering interview process! You'll be asked to complete a code assessment in the stack we use internally for the frontend at Apply: TypeScript, Next.js, and tailwindcss. We've configured sensible repository defaults and boilerplate Frontend and Backend projects, so you can spend your time writing actual code, not configuration.
