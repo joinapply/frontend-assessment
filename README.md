@@ -8,7 +8,9 @@ We know not everyone has experience with our core stack — that's okay! The goa
 If you have any questions, reach out to Anthony at anthony@joinapply.co
 
 ## The Assignment
-Replacing resumes with assessments is a core feature of Apply. We want you to build out a React component that will take an array of questions (you design this) and render a multi-step questionnaire that ends with a submission of the form state (you can just have a console.log at the end)
+Replacing resumes with assessments is a core feature of Apply. We want you to build out a React component that will take an array of questions (you design this) and render a multi-step questionnaire with different types of questions that ends with a submission of the form state (you can just have a console.log at the end)
+
+We want to keep things open ended to see more about how you think and the decisions you make!
 
 ## Evaluation
 When evaluating your submission, we care about the following:
