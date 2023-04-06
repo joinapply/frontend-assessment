@@ -21,6 +21,8 @@ When evaluating your submission, we care about the following:
 
 There's no perfect solution — "Developer Experience, "Performance & Scaleability,", and "Code Quality" mean different things in different contexts. Use your best judgement, and explicitly call out any assumptions you made along the way. Remember: there aren't any tricks here, and we review every submission with the best intent.
 
+Here is some of the code standards and principles that we follow: https://joinapply.s3.us-west-1.amazonaws.com/Apply_Assessment_Guide.pdf
+
 ## Submission
 Fork & PR When you're ready, fork this repository and create a Pull Request. In your Pull Request, be sure to clearly explain the changes you made, and any assumptions your reviewer should keep in mind.
 
