@@ -1,4 +1,27 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Apply.io Frontend Technical Assessment
+
+## Introduction
+Welcome to the next step of Contra's engineering interview process! You'll be asked to complete a code assessment in the stack we use internally at Contra: Node.JS, TypeScript, React, GraphQL, and PostgreSQL. We've configured sensible repository defaults and boilerplate Frontend and Backend projects, so you can spend your time writing actual code, not configuration.
+
+We know not everyone has experience with our core stack — that's okay! The goal of this exercise is to assess your ability to learn, and make good software design decisions along the way. To be respectful of your time, this assessment is designed to be completed in under 4 hours and has no deadlines or due dates.
+
+If you have any questions, reach out to Anthony at anthony@joinapply.co
+
+## Evaluation
+When evaluating your submission, we care about the following:
+
+Correctness
+Developer Experience
+Tests of any kind, as long as you can explain why you added the tests that you did
+Performance & Scaleability
+Code consistency, style, and quality
+There's no perfect solution — "Developer Experience, "Performance & Scaleability,", and "Code Quality" mean different things in different contexts. Use your best judgement, and explicitly call out any assumptions you made along the way. Remember: there aren't any tricks here, and we review every submission with the best intent.
+
+## Submission
+Fork & PR When you're ready, fork this repository and create a Pull Request. In your Pull Request, be sure to clearly explain the changes you made, and any assumptions your reviewer should keep in mind.
+
+## Loom Submission
+At Apply, we prize great communication over all else. In addition to great written communication, we love concise Loom demos that capture your personality and passion for your work, and convey what you can't in writing. As part of your submission, attach a <5 minute Loom to your PR description that introduces yourself, walks through your code, and the decisions you made along the way.
 
 ## Getting Started
 
@@ -13,26 +36,3 @@ pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
